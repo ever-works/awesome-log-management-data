@@ -1,0 +1,11 @@
+name: "Loggly"
+description: "Cloud-based log management service for aggregating and searching logs from applications and servers. Provides automated parsing, dashboards, and alerts with a focus on simplicity for DevOps teams. Owned by SolarWinds with tiered paid plans."
+source_url: "https://www.loggly.com/"
+category: "Log Management SaaS"
+tags:
+  - "paid"
+  - "api"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/www.loggly.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.loggly.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

@@ -1,0 +1,13 @@
+name: "Cribl Stream"
+description: "Observability pipeline tool for collecting, reducing, and routing log and metric data to multiple destinations. Provides a visual interface for data transformation and schema-on-write capabilities. Offers a free community edition and paid enterprise licenses."
+source_url: "https://cribl.io/"
+category: "Log Pipelines & Collectors"
+tags:
+  - "freemium"
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/cribl.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://cribl.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

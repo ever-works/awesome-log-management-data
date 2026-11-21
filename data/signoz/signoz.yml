@@ -1,0 +1,12 @@
+name: "SigNoz"
+description: "Open-source observability platform for logs, traces, and metrics using ClickHouse as the storage backend. Offers a self-hosted alternative to commercial APM tools with log search and visualization. Available under an open-source license with a managed cloud option."
+source_url: "https://signoz.io/"
+category: "Open-Source Log Stacks"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "cloud-native"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/signoz.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://signoz.io/>\n- Repository: <https://github.com/signoz/signoz>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

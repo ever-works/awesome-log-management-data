@@ -1,0 +1,13 @@
+name: "Axiom"
+description: "Cloud-native log data platform that stores event data in object storage and enables SQL-like querying. Designed for engineering teams handling high-volume observability data with separate compute and storage. Offers self-hosted and managed options with usage-based pricing."
+source_url: "https://axiom.co/"
+category: "Cloud-Native Logging"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "cloud-native"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/axiom.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://axiom.co/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

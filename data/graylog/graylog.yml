@@ -1,0 +1,13 @@
+name: "Graylog"
+description: "Centralized log management platform for collecting, indexing, and analyzing machine data. Provides a web interface, alerting, and stream processing with an open-source core and commercial enterprise features. Supports self-hosted deployment."
+source_url: "https://www.graylog.org/"
+category: "Open-Source Log Stacks"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.graylog.org.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.graylog.org/>\n- Repository: <https://github.com/Graylog2/graylog2-server>\n\nLicense: GPLv2.\n"
+updated_at: "2026-11-21 01:23"

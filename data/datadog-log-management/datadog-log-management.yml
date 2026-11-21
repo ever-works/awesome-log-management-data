@@ -1,0 +1,13 @@
+name: "Datadog Log Management"
+description: "Cloud-based log management and observability platform that aggregates, indexes, and analyzes logs from cloud, hybrid, and on-premises environments. Suitable for DevOps and SRE teams needing real-time search, alerting, and correlation with metrics and traces. Paid enterprise SaaS with usage-based pricing."
+source_url: "https://www.datadoghq.com/"
+category: "Log Management SaaS"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/www.datadoghq.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.datadoghq.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

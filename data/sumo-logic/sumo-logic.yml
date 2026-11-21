@@ -1,0 +1,13 @@
+name: "Sumo Logic"
+description: "Cloud-native SaaS platform for log analytics, observability, and security. Provides real-time search, machine learning-based anomaly detection, and integrations with AWS, Kubernetes, and CI/CD tools. Offers a free tier and paid enterprise plans."
+source_url: "https://www.sumologic.com/"
+category: "Log Management SaaS"
+tags:
+  - "freemium"
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sumologic.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.sumologic.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

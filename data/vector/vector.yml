@@ -1,0 +1,12 @@
+name: "Vector"
+description: "High-performance observability data pipeline for collecting, transforming, and routing logs and metrics. Written in Rust and designed for cloud-native environments with minimal resource usage. Open source under the Apache 2.0 license."
+source_url: "https://vector.dev/"
+category: "Log Pipelines & Collectors"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "cloud-native"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/vector.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://vector.dev/>\n- Repository: <https://github.com/vectordotdev/vector>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

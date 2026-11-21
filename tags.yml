@@ -1,0 +1,20 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: cloud-native
+  name: "Cloud-Native"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: freemium
+  name: "Freemium"
+- id: open-source
+  name: "Open Source"
+- id: free-plan
+  name: "Free Plan"
+- id: low-cost
+  name: "Low-Cost"

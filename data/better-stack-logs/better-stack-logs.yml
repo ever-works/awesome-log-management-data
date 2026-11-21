@@ -1,0 +1,12 @@
+name: "Better Stack Logs"
+description: "Modern log management SaaS offering log collection, search, dashboards, and alerting. Built for developers and DevOps teams with a focus on ease of use and fast setup. Provides a free tier and paid plans based on ingestion volume."
+source_url: "https://betterstack.com/"
+category: "Log Management SaaS"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/betterstack.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://betterstack.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

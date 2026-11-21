@@ -1,0 +1,12 @@
+name: "Fluent Bit"
+description: "Fast, lightweight log processor and forwarder for cloud-native and embedded environments. CNCF project written in C with minimal memory footprint, often deployed as a DaemonSet on Kubernetes. Open source under Apache 2.0."
+source_url: "https://fluentbit.io/"
+category: "Log Pipelines & Collectors"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "cloud-native"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/fluentbit.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://fluentbit.io/>\n- Repository: <https://github.com/fluent/fluent-bit>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

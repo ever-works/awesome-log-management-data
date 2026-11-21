@@ -1,0 +1,11 @@
+name: "Papertrail"
+description: "Hosted log management service that aggregates logs from servers, cloud services, and applications into a searchable web interface. Owned by SolarWinds, it targets small to mid-sized teams needing simple log tailing and alerts. Pricing is based on log volume and retention."
+source_url: "https://www.papertrail.com/"
+category: "Log Management SaaS"
+tags:
+  - "paid"
+  - "api"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/www.papertrail.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.papertrail.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

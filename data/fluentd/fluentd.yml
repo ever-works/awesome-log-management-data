@@ -1,0 +1,12 @@
+name: "Fluentd"
+description: "Open-source data collector for unifying log collection and forwarding across hybrid environments. Part of the Cloud Native Computing Foundation with a large plugin ecosystem for inputs and outputs. Written in Ruby and designed for reliability."
+source_url: "https://www.fluentd.org/"
+category: "Log Pipelines & Collectors"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "cloud-native"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.fluentd.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.fluentd.org/>\n- Repository: <https://github.com/fluent/fluentd>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

@@ -1,0 +1,12 @@
+name: "OpenObserve"
+description: "Open-source observability platform for logs, metrics, and traces built on ClickHouse and object storage. Provides a unified UI for log search and dashboarding with low storage costs. Can be self-hosted or used via managed cloud."
+source_url: "https://openobserve.ai/"
+category: "Open-Source Log Stacks"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "low-cost"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/openobserve.ai.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://openobserve.ai/>\n- Repository: <https://github.com/openobserve/openobserve>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

@@ -1,0 +1,12 @@
+- id: log-management-saas
+  name: "Log Management SaaS"
+- id: open-source-log-stacks
+  name: "Open-Source Log Stacks"
+- id: log-pipelines-and-collectors
+  name: "Log Pipelines & Collectors"
+- id: log-analytics-and-search
+  name: "Log Analytics & Search"
+- id: cloud-native-logging
+  name: "Cloud-Native Logging"
+- id: low-cost-log-storage
+  name: "Low-Cost Log Storage"

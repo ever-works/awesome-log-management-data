@@ -1,0 +1,12 @@
+name: "Quickwit"
+description: "Open-source search engine built for observability and object storage, using Apache Lucene and Tantivy. Designed for cost-effective log storage on S3-compatible backends with minimal operational overhead. Suitable as a Loki or Elasticsearch alternative."
+source_url: "https://quickwit.io/"
+category: "Low-Cost Log Storage"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "cloud-native"
+  - "low-cost"
+icon_url: "https://icons.duckduckgo.com/ip3/quickwit.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://quickwit.io/>\n- Repository: <https://github.com/quickwit-oss/quickwit>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

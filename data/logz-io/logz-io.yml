@@ -1,0 +1,13 @@
+name: "Logz.io"
+description: "Log management and observability SaaS built on open-source Elasticsearch, Logstash, and Kibana. Offers log search, infrastructure monitoring, and security analytics with a multi-tenant cloud architecture. Provides a free tier and paid plans."
+source_url: "https://logz.io/"
+category: "Log Management SaaS"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "open-source"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/logz.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://logz.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

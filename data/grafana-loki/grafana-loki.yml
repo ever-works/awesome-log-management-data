@@ -1,0 +1,12 @@
+name: "Grafana Loki"
+description: "Open-source log aggregation system designed to store logs and index metadata rather than full text. Integrates tightly with Grafana for visualization and Prometheus for metrics. Optimized for cost-effective log storage in Kubernetes and cloud-native environments."
+source_url: "https://grafana.com/oss/loki"
+category: "Open-Source Log Stacks"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "cloud-native"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/grafana.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://grafana.com/oss/loki>\n- Repository: <https://github.com/grafana/loki>\n\nLicense: AGPLv3.\n"
+updated_at: "2026-11-21 01:23"

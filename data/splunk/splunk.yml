@@ -1,0 +1,13 @@
+name: "Splunk"
+description: "Data analytics platform for searching, monitoring, and analyzing machine-generated data including logs. Widely used in enterprise security and IT operations for indexing large volumes of unstructured data. Offers cloud and self-hosted deployment with commercial licensing."
+source_url: "https://www.splunk.com/"
+category: "Log Analytics & Search"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/www.splunk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.splunk.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"

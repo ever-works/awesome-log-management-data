@@ -1,0 +1,12 @@
+name: "VictoriaLogs"
+description: "Log storage and search solution by VictoriaMetrics optimized for high ingestion rates and low resource usage. Compatible with common log agents and offers a Prometheus-like operational model. Available as open-source binary and managed cloud service."
+source_url: "https://victoriametrics.com/products/victorialogs"
+category: "Cloud-Native Logging"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "low-cost"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/victoriametrics.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://victoriametrics.com/products/victorialogs>\n- Repository: <https://github.com/VictoriaMetrics/VictoriaLogs>\n\nLicense: AGPLv3.\n"
+updated_at: "2026-11-21 01:23"

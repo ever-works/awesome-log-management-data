@@ -1,0 +1,13 @@
+name: "Elastic"
+description: "Open core search and analytics engine built on Elasticsearch and Kibana for log storage, search, and visualization. Provides the Elastic Stack for SIEM, observability, and enterprise search. Available as a managed cloud service or self-managed distribution with free and paid tiers."
+source_url: "https://www.elastic.co/"
+category: "Log Analytics & Search"
+tags:
+  - "freemium"
+  - "self-hosted"
+  - "api"
+  - "open-source"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.elastic.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.elastic.co/>\n- Repository: <https://github.com/elastic/elasticsearch>\n\nLicense: Elastic v2 / SSPL.\n"
+updated_at: "2026-11-21 01:23"

@@ -1,0 +1,13 @@
+name: "Apache OpenSearch"
+description: "Open-source search and analytics suite forked from Elasticsearch and Kibana, licensed under Apache 2.0. Used for log analytics, search, and observability with community-driven development. Supported by AWS and available as a managed service or self-hosted."
+source_url: "https://opensearch.org/"
+category: "Open-Source Log Stacks"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/opensearch.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://opensearch.org/>\n- Repository: <https://github.com/opensearch-project/OpenSearch>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

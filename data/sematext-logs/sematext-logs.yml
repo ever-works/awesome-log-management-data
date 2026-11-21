@@ -1,0 +1,12 @@
+name: "Sematext Logs"
+description: "Log management and analytics SaaS with agent-based collection, full-text search, and alerting. Part of the Sematext observability suite and integrates with Elasticsearch-compatible APIs. Offers cloud and self-managed options with tiered pricing."
+source_url: "https://sematext.com/logs"
+category: "Log Management SaaS"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "cloud-native"
+icon_url: "https://icons.duckduckgo.com/ip3/sematext.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://sematext.com/logs>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 01:23"
