@@ -1,0 +1,55 @@
+name: Wazuh
+description: "Wazuh is a free and open source security information and event
+  management (SIEM) platform for threat hunting, detection, and response. It
+  provides log collection and analysis, file integrity monitoring, and
+  vulnerability detection. Pricing: free and open source (GPLv2). Deployment:
+  self-hosted. Repository: https://github.com/wazuh/wazuh"
+source_url: https://wazuh.com/
+category: Log Analytics & Search
+tags:
+  - open-source
+  - self-hosted
+  - siem
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Wazuh is a free and open source security information and event management
+  (SIEM) platform used for threat hunting, detection, and response. It combines
+  log collection and analysis with file integrity monitoring and vulnerability
+  detection.
+
+
+  ## Features
+
+
+  - Log collection and analysis
+
+  - File integrity monitoring
+
+  - Vulnerability detection
+
+  - Threat hunting, detection, and response
+
+  - SIEM capabilities
+
+
+  ## Pricing
+
+
+  Free and open source under the GPLv2 license.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Repository
+
+
+  https://github.com/wazuh/wazuh
+brand: Wazuh
+updated_at: 2026-11-26 11:14

@@ -1,0 +1,59 @@
+name: Uptrace
+description: Uptrace is an open-source and commercial distributed tracing and
+  APM platform that natively supports OpenTelemetry via OTLP. It provides
+  traces, metrics, and logs with ClickHouse storage. Open source under MIT
+  License, self-hosted.
+source_url: https://uptrace.dev/
+category: Cloud-Native Logging
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - tracing
+markdown: >-
+  # Uptrace
+
+
+  ## Overview
+
+  Uptrace is an open-source distributed tracing and APM platform that natively
+  supports OpenTelemetry via OTLP. It provides traces, metrics, and logs with
+  ClickHouse-based storage for high-performance observability.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Distributed tracing
+
+  - Application performance monitoring
+
+  - Log management
+
+  - ClickHouse storage backend
+
+  - Open-source under MIT License
+
+
+  ## Pricing
+
+  Free and open-source under MIT License; commercial cloud available.
+
+
+  ## Deployment
+
+  Self-hosted or cloud.
+
+
+  ## Repository
+
+  https://github.com/uptrace/uptrace
+
+
+  ## Documentation
+
+  https://uptrace.dev/docs
+brand: Uptrace
+brand_logo_url: https://uptrace.dev/logo.png
+updated_at: 2026-11-26 11:14

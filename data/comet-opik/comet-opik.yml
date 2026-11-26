@@ -1,0 +1,50 @@
+name: Comet Opik
+description: Comet Opik is an open-source and commercial LLM observability
+  platform that natively supports OpenTelemetry via OTLP. It provides tracing,
+  evaluation, and monitoring for AI applications. Mixed OSS/commercial model.
+source_url: https://www.comet.com/
+category: Cloud-Native Logging
+tags:
+  - open-source
+  - commercial
+  - ai
+  - llm
+markdown: >-
+  # Comet Opik
+
+
+  ## Overview
+
+  Comet Opik is an open-source LLM observability platform for tracing,
+  evaluating, and monitoring AI applications. It natively supports OpenTelemetry
+  via OTLP.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - LLM application tracing
+
+  - Evaluation and experimentation
+
+  - Monitoring for AI workloads
+
+  - Open-source core with commercial offerings
+
+
+  ## Pricing
+
+  Mixed open-source and commercial.
+
+
+  ## Deployment
+
+  Self-hosted or cloud.
+
+
+  ## Documentation
+
+  https://www.comet.com/opik/
+brand: Comet
+updated_at: 2026-11-26 11:14

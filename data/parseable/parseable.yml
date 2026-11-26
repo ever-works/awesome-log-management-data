@@ -1,0 +1,59 @@
+name: Parseable
+description: Parseable is an open-source and commercial log observability engine
+  that natively supports OpenTelemetry via OTLP. It provides log ingestion,
+  storage, and query with Apache Parquet-compatible storage. Mixed
+  OSS/commercial model.
+source_url: https://www.parseable.com/
+category: Low-Cost Log Storage
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - logs
+markdown: >-
+  # Parseable
+
+
+  ## Overview
+
+  Parseable is a log observability engine that natively supports OpenTelemetry
+  via OTLP. It provides log ingestion, storage, and querying with Apache
+  Parquet-compatible storage and native S3 support.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Log ingestion and storage
+
+  - Log search and analytics
+
+  - Apache Parquet-compatible storage
+
+  - Native S3 object storage support
+
+  - Lightweight and efficient
+
+
+  ## Pricing
+
+  Mixed open-source and commercial; open-source core available free.
+
+
+  ## Deployment
+
+  Self-hosted or cloud.
+
+
+  ## Repository
+
+  https://github.com/parseableio/parseable
+
+
+  ## Documentation
+
+  https://docs.parseable.com/
+brand: Parseable
+brand_logo_url: https://www.parseable.com/logo.png
+updated_at: 2026-11-26 11:14

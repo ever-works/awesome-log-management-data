@@ -1,0 +1,37 @@
+name: ManageEngine Log360 Cloud
+description: ManageEngine Log360 Cloud is a cloud-based log management service
+  powered by ManageEngine. The free plan offers 50 GB of storage with 15 days of
+  storage retention and 7 days of search.
+source_url: https://www.manageengine.com/log-management/cloud/
+category: Log Management SaaS
+tags:
+  - free tier
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ManageEngine Log360 Cloud is a cloud-based log management service powered by
+  ManageEngine.
+
+
+  ## Pricing
+
+
+  The free plan offers 50 GB storage with 15 days of storage retention and 7
+  days of search.
+
+
+  ## Features
+
+
+  - Cloud-based log management
+
+  - 50 GB storage on the free plan
+
+  - 15 days of storage retention on the free plan
+
+  - 7 days of search on the free plan
+brand: ManageEngine
+updated_at: 2026-11-26 11:14

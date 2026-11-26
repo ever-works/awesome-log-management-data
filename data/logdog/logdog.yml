@@ -1,0 +1,41 @@
+name: LogDog
+description: LogDog is a remote debugging and logging SDK for iOS and Android
+  with a web UI. It captures all logs, requests and events in real-time and
+  allows developers to intercept them. The service is free for up to 100MB of
+  logs every month.
+source_url: https://log.dog
+category: Log Management SaaS
+tags:
+  - free tier
+  - mobile
+  - remote debugging
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LogDog is a remote debugging/logging SDK for iOS and Android with a web UI. It
+  captures all logs, requests and events in real-time and allows to intercept
+  them.
+
+
+  ## Pricing
+
+
+  Free for up to 100MB of logs every month.
+
+
+  ## Features
+
+
+  - Remote debugging/logging SDK for iOS and Android
+
+  - Web UI for viewing logs
+
+  - Captures all logs, requests and events in real-time
+
+  - Allows interception of logs
+
+  - Free tier: up to 100MB of logs per month
+brand: LogDog
+updated_at: 2026-11-26 11:14

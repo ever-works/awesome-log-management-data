@@ -1,0 +1,53 @@
+name: Red Hat
+description: Red Hat is a commercial enterprise software company whose OpenShift
+  and OpenTelemetry Operator natively support OpenTelemetry via OTLP. It
+  provides enterprise-grade observability for hybrid cloud environments. Paid,
+  enterprise-focused.
+source_url: https://docs.redhat.com/
+category: Cloud-Native Logging
+tags:
+  - commercial
+  - paid
+  - enterprise
+  - kubernetes
+  - cloud-native
+markdown: >-
+  # Red Hat
+
+
+  ## Overview
+
+  Red Hat provides enterprise observability solutions through OpenShift and the
+  OpenTelemetry Operator, with native OpenTelemetry support via OTLP. It targets
+  hybrid cloud and Kubernetes environments with enterprise-grade support.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - OpenTelemetry Operator for Kubernetes
+
+  - Hybrid cloud observability
+
+  - Enterprise support and lifecycle management
+
+  - Integration with OpenShift
+
+
+  ## Pricing
+
+  Paid commercial product with enterprise subscriptions.
+
+
+  ## Deployment
+
+  Self-hosted (OpenShift/Kubernetes) or cloud-managed.
+
+
+  ## Documentation
+
+  https://docs.redhat.com/
+brand: Red Hat
+brand_logo_url: https://www.redhat.com/content/dam/rhcms/en/logo/redhat-logo.svg
+updated_at: 2026-11-26 11:14

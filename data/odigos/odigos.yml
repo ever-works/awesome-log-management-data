@@ -1,0 +1,54 @@
+name: Odigos
+description: Odigos is an open-source and commercial cloud-native observability
+  platform that natively supports OpenTelemetry via OTLP. It provides automated
+  instrumentation and distributed tracing for Kubernetes environments. Mixed
+  OSS/commercial model.
+source_url: https://docs.odigos.io/
+category: Cloud-Native Logging
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - kubernetes
+  - cloud-native
+markdown: >-
+  # Odigos
+
+
+  ## Overview
+
+  Odigos is a cloud-native observability platform that natively supports
+  OpenTelemetry via OTLP. It provides automated instrumentation and distributed
+  tracing for Kubernetes-based applications without code changes.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Automated instrumentation
+
+  - Distributed tracing for Kubernetes
+
+  - No-code application monitoring
+
+  - Service dependency mapping
+
+  - Open-source core with commercial offerings
+
+
+  ## Pricing
+
+  Mixed open-source and commercial.
+
+
+  ## Deployment
+
+  Self-hosted (Kubernetes) or cloud.
+
+
+  ## Documentation
+
+  https://docs.odigos.io/
+brand: Odigos
+updated_at: 2026-11-26 11:14

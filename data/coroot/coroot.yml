@@ -1,0 +1,51 @@
+name: Coroot
+description: Coroot is an open-source and commercial observability platform that
+  natively supports OpenTelemetry via OTLP. It provides application performance
+  monitoring, distributed tracing, and infrastructure monitoring. Mixed
+  OSS/commercial model.
+source_url: https://github.com/coroot/coroot
+category: Open-Source Log Stacks
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - observability
+markdown: >-
+  # Coroot
+
+
+  ## Overview
+
+  Coroot is an observability platform that natively supports OpenTelemetry via
+  OTLP. It provides APM, distributed tracing, and infrastructure monitoring
+  capabilities with an open-source core and commercial offerings.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Application performance monitoring
+
+  - Distributed tracing
+
+  - Infrastructure monitoring
+
+  - Open-source core with commercial editions
+
+
+  ## Pricing
+
+  Mixed open-source and commercial.
+
+
+  ## Deployment
+
+  Self-hosted or cloud.
+
+
+  ## Repository
+
+  https://github.com/coroot/coroot
+brand: Coroot
+updated_at: 2026-11-26 11:14

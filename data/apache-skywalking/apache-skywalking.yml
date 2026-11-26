@@ -1,0 +1,53 @@
+name: Apache SkyWalking
+description: Apache SkyWalking is an open-source APM and observability platform
+  that natively supports OpenTelemetry via OTLP. It provides distributed
+  tracing, service mesh observability, and log analysis for cloud-native
+  applications. Open source under the Apache License 2.0, self-hosted.
+source_url: https://skywalking.apache.org/
+category: Open-Source Log Stacks
+tags:
+  - open-source
+  - self-hosted
+  - tracing
+markdown: >-
+  # Apache SkyWalking
+
+
+  ## Overview
+
+  Apache SkyWalking is an open-source application performance monitoring (APM)
+  and observability platform for distributed systems. It natively consumes
+  OpenTelemetry data via OTLP for tracing, metrics, and logs.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Distributed tracing
+
+  - Service mesh observability
+
+  - Log analysis and aggregation
+
+  - Application performance monitoring
+
+  - Multi-language agent support
+
+
+  ## Pricing
+
+  Free and open-source under the Apache License 2.0.
+
+
+  ## Deployment
+
+  Self-hosted.
+
+
+  ## Repository
+
+  https://github.com/apache/skywalking
+brand: Apache Software Foundation
+brand_logo_url: https://skywalking.apache.org/resources/images/logo.svg
+updated_at: 2026-11-26 11:14

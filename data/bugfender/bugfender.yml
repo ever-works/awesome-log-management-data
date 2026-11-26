@@ -1,0 +1,46 @@
+name: Bugfender
+description: Bugfender is a remote logging and crash reporting service for
+  mobile and web applications. The free plan includes up to 100k log lines per
+  day with 24 hours of retention. It offers integrations with platforms like
+  Vercel and advanced data querying with email and Discord notifiers.
+source_url: https://bugfender.com
+category: Log Management SaaS
+tags:
+  - free tier
+  - mobile
+  - crash reporting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bugfender is a remote logging and crash reporting service for mobile and web
+  applications.
+
+
+  ## Pricing
+
+
+  The free plan includes up to 100k log lines per day with 24 hours of
+  retention.
+
+
+  ## Features
+
+
+  - Remote logging for mobile and web applications
+
+  - Up to 100k log lines/day on the free plan
+
+  - 24 hours log retention on the free plan
+
+  - Integrations with platforms like Vercel
+
+  - Advanced data querying
+
+  - Email and Discord notifiers
+brand: Bugfender
+brand_logo_url: https://bugfender.com/images/logo.png
+images:
+  - https://bugfender.com/images/og-image.png
+updated_at: 2026-11-26 11:14

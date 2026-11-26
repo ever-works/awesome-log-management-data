@@ -1,0 +1,49 @@
+name: DataBuff
+description: DataBuff is an open-source observability platform that natively
+  supports OpenTelemetry via OTLP. It provides centralized log management,
+  metrics, and tracing capabilities. Open source, self-hosted.
+source_url: https://github.com/DataBuff/DataBuff
+category: Open-Source Log Stacks
+tags:
+  - open-source
+  - self-hosted
+  - observability
+markdown: >-
+  # DataBuff
+
+
+  ## Overview
+
+  DataBuff is an open-source observability platform with native OpenTelemetry
+  support via OTLP. It offers centralized log management, metrics collection,
+  and distributed tracing.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Centralized log management
+
+  - Metrics collection and visualization
+
+  - Distributed tracing
+
+  - Self-hosted deployment
+
+
+  ## Pricing
+
+  Free and open-source.
+
+
+  ## Deployment
+
+  Self-hosted.
+
+
+  ## Repository
+
+  https://github.com/DataBuff/DataBuff
+brand: DataBuff
+updated_at: 2026-11-26 11:14

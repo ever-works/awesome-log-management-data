@@ -1,0 +1,63 @@
+name: Grafana Labs
+description: Grafana Labs is a mixed open-source and commercial observability
+  platform that natively supports OpenTelemetry via OTLP. It offers Grafana,
+  Loki, Tempo, Mimir, and Pyroscope for logs, metrics, traces, and profiling.
+  Mixed OSS/commercial model.
+source_url: https://grafana.com/
+category: Open-Source Log Stacks
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - cloud-native
+markdown: >-
+  # Grafana Labs
+
+
+  ## Overview
+
+  Grafana Labs provides an observability stack including Grafana
+  (visualization), Loki (logs), Tempo (traces), Mimir (metrics), and Pyroscope
+  (profiling). It natively supports OpenTelemetry via OTLP across all signals.
+  Grafana Labs offers both open-source and commercial offerings.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Grafana dashboards and visualization
+
+  - Loki for log aggregation
+
+  - Tempo for distributed tracing
+
+  - Mimir for metrics
+
+  - Pyroscope for continuous profiling
+
+  - Multi-tenant and scalable architecture
+
+
+  ## Pricing
+
+  Mixed open-source and commercial; free self-hosted and Grafana Cloud tiers
+  available.
+
+
+  ## Deployment
+
+  Self-hosted or cloud (Grafana Cloud).
+
+
+  ## Repository
+
+  https://github.com/grafana
+
+
+  ## Documentation
+
+  https://grafana.com/docs/
+brand: Grafana Labs
+brand_logo_url: https://grafana.com/assets/img/favicon.png
+updated_at: 2026-11-26 11:14

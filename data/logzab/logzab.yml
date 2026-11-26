@@ -1,0 +1,38 @@
+name: logzab
+description: logzab is an audit trail management system that tracks user
+  activity logs. The free plan offers 1,000 user activity logs per month with
+  1-month retention for up to 5 projects.
+source_url: https://logzab.com
+category: Log Management SaaS
+tags:
+  - free tier
+  - audit trail
+featured: false
+markdown: >-
+  ## Overview
+
+
+  logzab is an audit trail management system.
+
+
+  ## Pricing
+
+
+  Free plan offers 1,000 user activity logs per month with 1-month retention for
+  up to 5 projects.
+
+
+  ## Features
+
+
+  - Audit trail management
+
+  - User activity logging
+
+  - 1,000 user activity logs per month on the free plan
+
+  - 1-month retention on the free plan
+
+  - Up to 5 projects on the free plan
+brand: logzab
+updated_at: 2026-11-26 11:14

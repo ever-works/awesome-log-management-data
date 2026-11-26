@@ -1,0 +1,53 @@
+name: qryn
+description: qryn is an open-source and commercial observability platform that
+  natively supports OpenTelemetry via OTLP. It provides log management, metrics,
+  and tracing compatible with Loki, Prometheus, and OTLP formats. Mixed
+  OSS/commercial model.
+source_url: https://qryn.metrico.in/
+category: Open-Source Log Stacks
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - observability
+markdown: >-
+  # qryn
+
+
+  ## Overview
+
+  qryn is an observability platform that natively supports OpenTelemetry via
+  OTLP. It is compatible with Loki, Prometheus, and OTLP formats for logs,
+  metrics, and traces, offering a unified observability stack.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Log management and analytics
+
+  - Metrics and traces support
+
+  - Loki and Prometheus compatible
+
+  - Unified query interface
+
+  - Open-source core with commercial offerings
+
+
+  ## Pricing
+
+  Mixed open-source and commercial.
+
+
+  ## Deployment
+
+  Self-hosted or cloud.
+
+
+  ## Documentation
+
+  https://qryn.metrico.in/docs/
+brand: qryn
+updated_at: 2026-11-26 11:14

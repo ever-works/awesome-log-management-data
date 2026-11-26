@@ -1,0 +1,59 @@
+name: Icinga 2
+description: Icinga 2 is an open-source and commercial monitoring platform that
+  natively supports OpenTelemetry via OTLP. It provides infrastructure and
+  network monitoring with notification capabilities. Open source under GPL,
+  self-hosted.
+source_url: https://icinga.com/
+category: Log Management SaaS
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - monitoring
+markdown: >-
+  # Icinga 2
+
+
+  ## Overview
+
+  Icinga 2 is an open-source monitoring and alerting platform that natively
+  supports OpenTelemetry via OTLP. It monitors infrastructure, networks, and
+  applications with a flexible notification system.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Infrastructure and network monitoring
+
+  - Service and host checks
+
+  - Notification and escalation
+
+  - Distributed monitoring
+
+  - Web interface and API
+
+
+  ## Pricing
+
+  Open source under GPLv2; commercial support and add-ons available.
+
+
+  ## Deployment
+
+  Self-hosted.
+
+
+  ## Repository
+
+  https://github.com/Icinga/icinga2
+
+
+  ## Documentation
+
+  https://icinga.com/docs/
+brand: Icinga
+brand_logo_url: https://icinga.com/wp-content/uploads/2017/02/icinga_logo_white.svg
+updated_at: 2026-11-26 11:14

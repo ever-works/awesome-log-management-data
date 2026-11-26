@@ -1,0 +1,54 @@
+name: Embrace
+description: Embrace is a commercial observability platform that natively
+  supports OpenTelemetry via OTLP. It focuses on mobile app performance
+  monitoring, crash reporting, and user experience tracking. Paid, cloud-based
+  SaaS.
+source_url: https://embrace.io/
+category: Log Management SaaS
+tags:
+  - commercial
+  - paid
+  - mobile
+  - saas
+markdown: >-
+  # Embrace
+
+
+  ## Overview
+
+  Embrace is a commercial observability platform focused on mobile applications.
+  It natively supports OpenTelemetry via OTLP for crash reporting, performance
+  monitoring, and user experience tracking.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Mobile app performance monitoring
+
+  - Crash reporting and error tracking
+
+  - User session replay
+
+  - ANR and freeze detection
+
+  - Network monitoring
+
+
+  ## Pricing
+
+  Paid commercial SaaS; pricing varies by usage and features.
+
+
+  ## Deployment
+
+  Cloud-based SaaS.
+
+
+  ## Documentation
+
+  https://embrace.io/docs/
+brand: Embrace
+brand_logo_url: https://embrace.io/logo.svg
+updated_at: 2026-11-26 11:14

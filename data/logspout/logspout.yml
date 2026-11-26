@@ -1,0 +1,46 @@
+name: logspout
+description: Logspout is a log router for Docker containers that captures stdout
+  and stderr from containers and forwards them to various destinations. It
+  attaches to all containers on a Docker host and routes their logs to a
+  configured endpoint, supporting custom modules for additional outputs.
+source_url: https://github.com/progrium/logspout
+category: Log Pipelines & Collectors
+tags:
+  - open-source
+  - docker
+  - log-collector
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Logspout is a log router for Docker containers. It attaches to all containers
+  on a Docker host, captures their stdout and stderr output, and forwards the
+  logs to a configured destination.
+
+
+  ## Features
+
+
+  - Captures container logs (stdout/stderr) from Docker
+
+  - Forwards logs to configurable destinations
+
+  - Supports custom modules for additional output targets
+
+  - Lightweight Docker log routing
+
+
+  ## Deployment
+
+
+  Self-hosted as a Docker container
+
+
+  ## License
+
+
+  Open source
+brand: progrium
+images: []
+updated_at: 2026-11-26 11:14

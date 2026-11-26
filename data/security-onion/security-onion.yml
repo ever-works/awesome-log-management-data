@@ -1,0 +1,52 @@
+name: Security Onion
+description: "Security Onion is a Linux distribution for threat hunting,
+  enterprise security monitoring, and log management. It bundles open-source
+  security tools for network security monitoring and log analysis. Pricing: free
+  and open source (GPLv2). Deployment: self-hosted. Repository:
+  https://github.com/Security-Onion-Solutions/securityonion"
+source_url: https://securityonion.net/
+category: Open-Source Log Stacks
+tags:
+  - open-source
+  - self-hosted
+  - siem
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Security Onion is a Linux distribution for threat hunting, enterprise security
+  monitoring, and log management. It bundles a suite of open-source security
+  tools for network security monitoring (NSM) and log analysis.
+
+
+  ## Features
+
+
+  - Threat hunting and enterprise security monitoring
+
+  - Centralized log collection and analysis
+
+  - Network security monitoring
+
+  - Bundled open-source security toolset
+
+
+  ## Pricing
+
+
+  Free and open source under the GPLv2 license.
+
+
+  ## Deployment
+
+
+  Self-hosted (Linux distribution / virtual appliance).
+
+
+  ## Repository
+
+
+  https://github.com/Security-Onion-Solutions/securityonion
+brand: Security Onion Solutions
+updated_at: 2026-11-26 11:14

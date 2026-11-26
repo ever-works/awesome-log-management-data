@@ -1,0 +1,56 @@
+name: OneUptime
+description: OneUptime is an open-source and commercial observability platform
+  that natively supports OpenTelemetry via OTLP. It provides monitoring,
+  logging, tracing, and incident management for applications. Mixed
+  OSS/commercial model.
+source_url: https://oneuptime.com/
+category: Log Management SaaS
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - monitoring
+markdown: >-
+  # OneUptime
+
+
+  ## Overview
+
+  OneUptime is an observability platform that natively supports OpenTelemetry
+  via OTLP. It combines monitoring, logging, tracing, and incident management in
+  a single platform for application reliability.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Application monitoring
+
+  - Log management
+
+  - Distributed tracing
+
+  - Incident management
+
+  - Status pages
+
+  - Open-source and commercial offerings
+
+
+  ## Pricing
+
+  Mixed open-source and commercial; free tier available.
+
+
+  ## Deployment
+
+  Self-hosted or cloud.
+
+
+  ## Documentation
+
+  https://oneuptime.com/docs/
+brand: OneUptime
+brand_logo_url: https://oneuptime.com/logo.svg
+updated_at: 2026-11-26 11:14

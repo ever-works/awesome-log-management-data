@@ -1,0 +1,53 @@
+name: HyperDX
+description: HyperDX is an open-source and commercial observability platform
+  that natively supports OpenTelemetry via OTLP. It unifies logs, metrics,
+  traces, and session replay in a single platform. Mixed OSS/commercial model.
+source_url: https://www.hyperdx.io/
+category: Open-Source Log Stacks
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - observability
+markdown: >-
+  # HyperDX
+
+
+  ## Overview
+
+  HyperDX is an open-source observability platform that natively supports
+  OpenTelemetry via OTLP. It unifies logs, metrics, traces, and session replay
+  in a single interface for debugging distributed systems.
+
+
+  ## Features
+
+  - Native OpenTelemetry support via OTLP
+
+  - Unified logs, metrics, traces, and session replay
+
+  - Log search and analytics
+
+  - Distributed tracing
+
+  - Session replay
+
+  - Self-hosted and cloud options
+
+
+  ## Pricing
+
+  Mixed open-source and commercial; open-source core available free.
+
+
+  ## Deployment
+
+  Self-hosted or cloud.
+
+
+  ## Repository
+
+  https://github.com/hyperdxio/hyperdx
+brand: HyperDX
+brand_logo_url: https://www.hyperdx.io/logo.png
+updated_at: 2026-11-26 11:14
