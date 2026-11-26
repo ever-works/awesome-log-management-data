@@ -1,12 +1,69 @@
-- url: "https://github.com/ripienaar/free-for-dev#log-management"
-  title: "free-for-dev — section “Log Management”"
-- url: "https://opentelemetry.io/ecosystem/vendors/"
-  title: "opentelemetry.io — Vendors"
-- url: "https://www.opensourcealternative.to/category/log-management"
-  title: "OpenSourceAlternative.to — Log Management"
-- url: "https://raw.githubusercontent.com/roundrobin/awesome-logging/HEAD/README.md"
-  title: "GitHub list — roundrobin/awesome-logging (22★, stale)"
-- url: "https://github.com/topics/logging"
-  title: "GitHub topic — `logging` (14,094 repos)"
-- url: "https://github.com/topics/log-management"
-  title: "GitHub topic — `log-management` (373 repos)"
+- url: https://github.com/ripienaar/free-for-dev#log-management
+  normalized_url: https://github.com/ripienaar/free-for-dev
+  first_seen_at: 2026-11-26T10:58:04.228Z
+  last_attempted_at: 2026-11-26T10:58:04.228Z
+  last_success_at: 2026-11-26T10:58:04.228Z
+  status: success
+  items_created: 6
+  pipeline: agent-pipeline
+- url: https://github.com/topics/log-management
+  normalized_url: https://github.com/topics/log-management
+  first_seen_at: 2026-11-26T11:11:08.681Z
+  last_attempted_at: 2026-11-26T11:11:08.681Z
+  last_success_at: 2026-11-26T11:11:08.681Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://github.com/topics/logging
+  normalized_url: https://github.com/topics/logging
+  first_seen_at: 2026-11-26T11:07:36.827Z
+  last_attempted_at: 2026-11-26T11:07:36.827Z
+  last_success_at: 2026-11-26T11:07:36.827Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://openobserve.ai/blog/log-management-tools
+  normalized_url: https://openobserve.ai/blog/log-management-tools
+  first_seen_at: 2026-11-26T11:12:03.322Z
+  last_attempted_at: 2026-11-26T11:12:03.322Z
+  last_success_at: 2026-11-26T11:12:03.322Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://opentelemetry.io/ecosystem/vendors/
+  normalized_url: https://opentelemetry.io/ecosystem/vendors
+  first_seen_at: 2026-11-26T11:01:11.878Z
+  last_attempted_at: 2026-11-26T11:01:11.878Z
+  last_success_at: 2026-11-26T11:01:11.878Z
+  status: success
+  items_created: 25
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/ishandutta2007/Awesome-Log-Management/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/ishandutta2007/Awesome-Log-Management/HEAD/README.md
+  first_seen_at: 2026-11-26T11:12:52.378Z
+  last_attempted_at: 2026-11-26T11:12:52.378Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/ishandutta2007/Awesome-Log-Management/HEA\
+    D/README.md"
+- url: https://raw.githubusercontent.com/roundrobin/awesome-logging/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/roundrobin/awesome-logging/HEAD/README.md
+  first_seen_at: 2026-11-26T11:04:07.528Z
+  last_attempted_at: 2026-11-26T11:04:07.528Z
+  last_success_at: 2026-11-26T11:04:07.528Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.opensourcealternative.to/category/log-management
+  normalized_url: https://www.opensourcealternative.to/category/log-management
+  first_seen_at: 2026-11-26T11:03:12.906Z
+  last_attempted_at: 2026-11-26T11:03:12.906Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.opensourcealternative.to/category/log-management"
